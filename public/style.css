@@ -44,6 +44,7 @@ body {
 .content h2 {
   font-weight: 700;
   margin-bottom: 14px;
+  color: hsl(218, 44%, 22%);
 }
 
 .content p {
