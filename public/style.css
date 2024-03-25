@@ -34,3 +34,22 @@ body {
   width: 100%;
   border-radius: 14px;
 }
+
+/* heading 2 */
+.content {
+  text-align: center;
+  padding: 0 24px 24px 24px;
+}
+
+.content h2 {
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.content p {
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  width: 250px;
+}
